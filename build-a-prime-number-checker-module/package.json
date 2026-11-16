@@ -1,0 +1,17 @@
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "A small module that checks whether a number is prime",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prime",
+    "math",
+    "number"
+  ],
+  "author": "Usman Hafeez",
+  "license": "MIT"
+}
